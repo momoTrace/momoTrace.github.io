@@ -1,0 +1,177 @@
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style21
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	background:#22798E;
+	mso-pattern:black none;
+	color:white;
+	font-size:25.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Microsoft YaHei UI", sans-serif;
+	mso-font-charset:134;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.5pt solid #A6DCEA;
+	border-left:none;
+	mso-style-name:标题;
+	mso-style-id:15;}
+.style18
+	{text-align:left;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	padding-left:27px;
+	mso-char-indent-count:1;
+	color:#22798E;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Microsoft YaHei UI", sans-serif;
+	mso-font-charset:134;
+	mso-style-name:"标题 2";
+	mso-style-id:17;}
+.style0
+	{mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	white-space:normal;
+	mso-rotate:0;
+	padding-left:27px;
+	mso-char-indent-count:1;
+	color:#0F5766;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Microsoft YaHei UI", sans-serif;
+	mso-font-charset:134;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+.style28
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	text-align:right;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-style-name:货币;
+	mso-style-id:4;}
+.style32
+	{mso-number-format:"\#_\)";
+	text-align:right;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-protection:locked visible;
+	mso-style-name:数量;}
+td
+	{mso-style-parent:style0;
+	color:#0F5766;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Microsoft YaHei UI", sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:normal;
+	mso-rotate:0;
+	padding-left:27px;
+	mso-char-indent-count:1;}
+.xl68
+	{mso-style-parent:style0;
+	background:white;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style18;
+	color:#22798E;
+	font-size:14.0pt;
+	white-space:nowrap;}
+.xl70
+	{mso-style-parent:style28;
+	mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	text-align:center;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl71
+	{mso-style-parent:style21;
+	color:white;
+	font-size:25.0pt;
+	font-weight:700;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.5pt solid #A6DCEA;
+	border-left:none;
+	background:#22798E;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl72
+	{mso-style-parent:style18;
+	color:#22798E;
+	font-size:14.0pt;
+	mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	text-align:center;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl73
+	{mso-style-parent:style18;
+	color:#22798E;
+	font-size:14.0pt;
+	text-align:center;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl74
+	{mso-style-parent:style18;
+	color:#22798E;
+	font-size:14.0pt;
+	mso-number-format:"\#_\)";
+	text-align:center;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl75
+	{mso-style-parent:style32;
+	mso-number-format:"\#_\)";
+	text-align:center;
+	white-space:nowrap;
+	padding-left:0px;}
+.xl76
+	{mso-style-parent:style0;
+	text-align:center;
+	padding-left:0px;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:center;
+	background:#76D7EB;
+	mso-pattern:black none;
+	padding-left:0px;}
+.xl78
+	{mso-style-parent:style32;
+	mso-number-format:"\#_\)";
+	text-align:center;
+	background:#2DA2BF;
+	mso-pattern:auto thin-diag-stripe;
+	white-space:nowrap;
+	padding-left:0px;}
